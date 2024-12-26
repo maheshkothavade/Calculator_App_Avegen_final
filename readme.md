@@ -21,5 +21,19 @@
 To run this app locally, follow these steps:
 ### Prerequisites
 
-1.NodeJS installed
-2.Expo CLI(installed using npm install -g expo-cli)
+- NodeJS installed
+- Expo CLI(installed using npm install -g expo-cli)
+
+  ### Installation
+
+  git clone https://github.com/maheshkothavade/Calculator_App_Avegen_final.git
+cd calculator-app
+npm install
+expo start
+     This will open a browser window with the Expo developer tools. You can either:
+     Scan the QR code with the Expo Go app (available on the App Store or Google Play) to open the app on your physical device.
+     Press i to open the app in the iOS simulator (macOS only).
+     Press a to open the app in the Android emulator (requires Android Studio).
+
+
+
