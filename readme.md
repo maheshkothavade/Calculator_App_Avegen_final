@@ -30,9 +30,9 @@ To run this app locally, follow these steps:
   
   cd calculator-app
 
-npm install
+  npm install
 
-expo start
+  expo start
 
      This will open a browser window with the Expo developer tools. You can either:
   
