@@ -31,8 +31,11 @@ cd calculator-app
 npm install
 expo start
      This will open a browser window with the Expo developer tools. You can either:
+  
      Scan the QR code with the Expo Go app (available on the App Store or Google Play) to open the app on your physical device.
+  
      Press i to open the app in the iOS simulator (macOS only).
+  
      Press a to open the app in the Android emulator (requires Android Studio).
 
 
