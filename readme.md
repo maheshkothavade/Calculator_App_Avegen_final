@@ -1,6 +1,6 @@
 # React Native Calculator
 
-This is a simple calculator app built with React Native and Expo. It allows users to perform basic arithmetic calculations and toggle between light and dark modes. The app uses a custom keyboard component and adjusts the display to fit various screen sizes
+- This is a simple calculator app built with React Native and Expo. It allows users to perform basic arithmetic calculations and toggle between light and dark modes. The app uses a custom keyboard component and adjusts the display to fit various screen sizes
 ---
 ## Features
 
@@ -15,3 +15,11 @@ This is a simple calculator app built with React Native and Expo. It allows user
 - React Native: A framework for building native mobile apps using React.
 - Expo: A set of tools for building React Native apps quickly and easily.
 - React Navigation: For handling app navigation (if needed in the future).
+
+## Getting Started
+
+To run this app locally, follow these steps:
+### Prerequisites
+
+1.NodeJS installed
+2.Expo CLI(installed using npm install -g expo-cli)
