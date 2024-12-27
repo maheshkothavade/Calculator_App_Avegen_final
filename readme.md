@@ -1,5 +1,8 @@
 # React Native Calculator
 
+https://expo.dev/accounts/suhelali/projects/mahesh-calculatorapp/builds/a0484765-185f-40c8-b289-b6b47f25c29e
+
+
 - This is a simple calculator app built with React Native and Expo. It allows users to perform basic arithmetic calculations and toggle between light and dark modes. The app uses a custom keyboard component and adjusts the display to fit various screen sizes
 ---
 ## Features
@@ -15,6 +18,13 @@
 - React Native: A framework for building native mobile apps using React.
 - Expo: A set of tools for building React Native apps quickly and easily.
 - React Navigation: For handling app navigation (if needed in the future).
+
+## Screenshots
+
+![6302815342845607042](https://github.com/user-attachments/assets/0da5a6bb-d4cf-488f-b223-a32af7b07679)
+![6302815342845607041](https://github.com/user-attachments/assets/f64acd9a-9404-48c9-8b63-a75ac2b1b3a2)
+
+
 
 ## Getting Started
 
